@@ -1,0 +1,48 @@
+{
+  "name": "disciple.js-console",
+  "version": "0.0.1",
+  "description": "Command line shell console for disciple server remote admin connections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surgeforward/disciple-console.git"
+  },
+  "keywords": [
+    "mlearn.js",
+    "machine",
+    "learning",
+    "knn",
+    "algorithms",
+    "model",
+    "regression",
+    "classification",
+    "classifier",
+    "regressor",
+    "disciple",
+    "learning",
+    "ai",
+    "artificial",
+    "intelligence",
+    "real",
+    "time",
+    "monitoring",
+    "console",
+    "admin"
+  ],
+  "author": "Surge, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surgeforward/disciple-console/issues"
+  },
+  "homepage": "https://github.com/surgeforward/disciple-console",
+  "dependencies": {
+    "socket.io": "^1.0.4",
+    "socket.io-client": "^1.0.4",
+    "lodash": "^2.4.1",
+    "jsonic": "^0.1.1",
+    "commander": "^2.2.0"
+  }
+}
