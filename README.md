@@ -3,20 +3,6 @@ About
 
 The Surge Disciple.JS platform provided by the Surge Consulting Group is a Socket.io based nodejs platform for real-time analysis of [MLearn.JS](https://github.com/surgeforward/MLearn.js) learners.
 
-Client Usage
-=====
-
-A disciple-client instance can be launched using nodejs. An optional flag to spawn multiple disciples is available.
-
-    node disciple.js --disciples=8
-
-Server Usage
-=====
-
-A disciple-server instance can be launched using nodejs.
-
-    node disciple-server.js --trainSize=38000 --algorithm=knn
-
 References
 =====
 
